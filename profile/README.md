@@ -10,3 +10,4 @@ Trete doch unserem [Discord-Server](https://discord.gg/7fVXR2g7DG) bei!
 ### Megumin
 [![Bots for Discord](https://discords.com/bots/api/bot/1117098615475806270/widget)](https://discords.com/bots/bots/1117098615475806270)
 <a href="https://discordbotlist.com/bots/megumin-5869"><img src="https://discordbotlist.com/api/v1/bots/1117098615475806270/widget"></a>
+<a href="https://top.gg/bot/1117098615475806270"><img src="https://top.gg/api/widget/1117098615475806270.svg"></a>
